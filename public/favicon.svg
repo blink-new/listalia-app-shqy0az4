@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="128" fill="#0ea5e9"/>
+  <path d="M160 256C160 202.98 202.98 160 256 160C309.02 160 352 202.98 352 256C352 309.02 309.02 352 256 352C202.98 352 160 309.02 160 256Z" fill="white"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M188 176H132C123.163 176 116 183.163 116 192V320C116 328.837 123.163 336 132 336H188V176ZM324 176H380C388.837 176 396 183.163 396 192V320C396 328.837 388.837 336 380 336H324V176Z" fill="white"/>
+  <path d="M180 128C180 119.163 187.163 112 196 112H316C324.837 112 332 119.163 332 128V384C332 392.837 324.837 400 316 400H196C187.163 400 180 392.837 180 384V128Z" fill="white"/>
+  <rect x="212" y="144" width="88" height="16" rx="8" fill="#0ea5e9"/>
+  <rect x="212" y="176" width="88" height="16" rx="8" fill="#0ea5e9"/>
+  <rect x="212" y="208" width="88" height="16" rx="8" fill="#0ea5e9"/>
+  <rect x="212" y="240" width="88" height="16" rx="8" fill="#0ea5e9"/>
+  <rect x="212" y="272" width="88" height="16" rx="8" fill="#0ea5e9"/>
+  <rect x="212" y="304" width="88" height="16" rx="8" fill="#0ea5e9"/>
+  <rect x="212" y="336" width="88" height="16" rx="8" fill="#0ea5e9"/>
+  <rect x="212" y="368" width="88" height="16" rx="8" fill="#0ea5e9"/>
+</svg>
